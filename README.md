@@ -6,3 +6,5 @@ I put here all my codes that I acquired while doing tutorials for different prog
 2. Python
 3. Javascript
 4. Typescript
+
+###### Author: *EJ CALIWAG*. Coding simple scripts.
