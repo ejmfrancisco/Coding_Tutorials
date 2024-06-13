@@ -30,6 +30,7 @@ int main()
 
     std::cout << student3.name << '\n';
     std::cout << student3.gpa << '\n';
+    
     std::cout << student3.enrolled << '\n';
 
     return 0;
