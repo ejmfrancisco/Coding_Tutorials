@@ -5,6 +5,10 @@ class Stove{
         int temperature = 0;
     public:
 
+    Stove(int temperature){
+        setTemperature(temperature);
+    }
+
     int getTemperature(){
         return temperature;
     }
@@ -23,7 +27,7 @@ class Stove{
 
 int main() {
 
-    Stove stove;
+    Stove stove(0);
 
     stove.setTemperature(5);
 
