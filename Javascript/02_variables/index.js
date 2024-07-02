@@ -11,3 +11,4 @@ document.getElementById("p3").textContent = `Enrolled: ${isHandsome}`;
 
 console.log(`Hello!`);
 console.log(fullName);
+console.log(typeof(fullName));
