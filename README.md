@@ -1,7 +1,7 @@
 # Coding_Tutorials
 ## Various programming languages tutorial codes.
 
-Codes that I acquired while doing tutorials on various programming languages.
+Code snippets and lessons that I acquired while doing tutorials on various programming languages.
 1. C++
 2. Python
 3. Javascript
