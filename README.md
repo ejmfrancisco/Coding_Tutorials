@@ -1,5 +1,5 @@
 # Coding_Tutorials
-## Various programming languages tutorial codes.
+## Various programming languages code tutorial.
 
 Code snippets and lessons that I acquired while doing tutorials on various programming languages.
 1. C++
