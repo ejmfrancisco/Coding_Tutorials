@@ -1,7 +1,7 @@
 // variable = A container that stores a value.
 //            Behaves as if it were the value it contains.
 
-let fullName = "EJ EJ";
+let fullName = "EJ 이제이";
 let age = 25;
 let isHandsome = true;
 
